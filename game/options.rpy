@@ -104,7 +104,8 @@ init python:
         else:
             return (float(height) * (float(config.screen_width) / float(config.screen_height)), height)
 
-
+# This section initalizes how the mod is packaged when exporting it from the Ren'Py Launcher.
+# It's best not to touch anything here.
 init python:
 
     if renpy.version_tuple == (8,1,1,23060707):
