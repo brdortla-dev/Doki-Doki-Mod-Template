@@ -9,11 +9,11 @@ init python:
 
     poem_y1 = Poem(
     author = "yuri",
-    title = "Ghost Under the Light",
+    title = "Ghost Under the shit"
     text = """\
 The tendrils of my hair illuminate beneath the amber glow.
 Bathing.
-It must be this one.
+It must be this one. shit.
 The last remaining streetlight to have withstood the test of time.
 the last yet to be replaced by the sickening blue-green hue of the future.
 I bathe. Calm; breathing air of the present but living in the past.
