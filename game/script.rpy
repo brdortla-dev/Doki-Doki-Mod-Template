@@ -31,7 +31,7 @@ label start:
 
     # This line of code shows a dialog box informing you (yes, you, the developer) about not yet deleting this line of code.
     # Delete this line of code so that you can start to write your game code!
-    call screen dialog ("Welcome to Doki Doki Mod Template!\n\nYou have not added any game code yet or have not yet\ndeleted the line of code that shows this dialog box.\n\nPlease refer to script.rpy.", MainMenu(confirm=False))
+    MainMenu(confirm=False))
 
     # Here's where you write your code. Usually, it's best
     # to call or jump to another label from another file.
